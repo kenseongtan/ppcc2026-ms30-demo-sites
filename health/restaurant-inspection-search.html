@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Restaurant Inspection Search – Southern Basin Health District</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="search">
+<div class="topbar" id="top"></div>
+<header id="hdr"></header>
+<div class="crumbs">Home / Restaurant Inspections / Restaurant Inspection Search</div>
+<div class="wrap"><aside class="side" id="side"></aside><main><h1>Restaurant Inspection Search</h1>
+<p>The Health District conducts unannounced inspections of food establishments at least once a year. Inspections are posted online approximately 5 business days following the inspection.</p>
+<form method="get" action="restaurant-inspection-search.html" role="search">
+  <div class="searchbar"><input type="search" id="search" name="search" placeholder="Search by name or address..." aria-label="Search by name or address"><button type="submit">Search</button></div>
+  <div class="filters">
+    <div><label for="type">Establishment type</label><select id="type" name="type"></select></div>
+    <div><label for="hotel">Hotel / property</label><select id="hotel" name="hotel"></select></div>
+    <div><label for="grade">Grade</label><select id="grade" name="grade"></select></div>
+    <div><label for="city">City</label><select id="city" name="city"></select></div>
+    <div><label for="zip">ZIP code</label><input id="zip" name="zip" inputmode="numeric" maxlength="5"></div>
+  </div>
+</form>
+<div id="results" aria-live="polite"></div></main></div>
+<footer id="ftr"></footer>
+<script src="../shared/common.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

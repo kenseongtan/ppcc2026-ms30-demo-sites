@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<title>Business License Inquiry - City of Desert Springs</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="inquiry">
+<div id="wrap">
+<div id="hdr"></div>
+<div id="menu"></div>
+<div id="main">
+<h1>Business License Inquiry</h1>
+<p>Use this form to look up a business licensed by the City of Desert Springs. Enter the beginning of the business name, or the license number. Results are displayed 10 per page.</p>
+<form id="frm" action="results.html" method="get">
+<table class="form">
+  <tr><td class="l"><label for="name">Business Name:</label></td><td><input type="text" id="name" name="name" size="34"> <span class="hint">(begins with)</span></td></tr>
+  <tr><td class="l"><label for="lic">License Number:</label></td><td><input type="text" id="lic" name="lic" size="14"> <span class="hint">(e.g. B051234)</span></td></tr>
+  <tr><td class="l"><label for="type">Business Type:</label></td><td><select id="type" name="type"></select></td></tr>
+  <tr><td></td><td><input type="submit" value="Submit"> <input type="reset" value="Reset"></td></tr>
+</table>
+</form>
+<p id="err" style="color:#b00020;font-weight:bold" role="alert"></p>
+<p class="hint" id="apply">To apply for a new business license, visit the Business License counter at City Hall, Monday–Thursday, 7:00 a.m. to 5:30 p.m.</p>
+<p class="hint" id="fees">Fees are set by City ordinance and are due at the time of application and each renewal.</p>
+</div>
+<div id="ftr"></div>
+</div>
+<script src="../shared/common.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Developers – Southern Basin Health District</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="dev">
+<div class="topbar" id="top"></div>
+<header id="hdr"></header>
+<div class="crumbs">Home / Restaurant Inspections / Developers</div>
+<div class="wrap"><aside class="side" id="side"></aside><main><h1>Developers</h1>
+<p>Restaurant and food establishment inspection data is available to download. The data is helpful for developers who want a complete record of all food establishment inspections. The data is updated nightly, so the most recent inspections are always available for download.</p>
+<p>The download contains CSV files and includes all the fields available in the online restaurant inspection application (the online database is a summary of the inspection, not a replica of the inspection report). Full inspection reports must still be requested by a records-request form. There is no way to download an individual record.</p>
+<p><a class="btn" href="downloads/establishments.csv" download>Download establishments (CSV)</a> &nbsp; <a class="btn" href="downloads/inspections.csv" download>Download inspections (CSV)</a></p>
+<p><b>Updated on:</b> <span id="upd">October 27, 2026</span></p>
+<h2>Table definitions</h2>
+<table class="def"><thead><tr><th>File</th><th>Column</th><th>Description</th></tr></thead><tbody>
+<tr><td>establishments.csv</td><td>permit_number</td><td>Unique permit number, e.g. PR0074031</td></tr>
+<tr><td>establishments.csv</td><td>establishment_name, category, hotel_property</td><td>Name, establishment type, and hotel or property (if any)</td></tr>
+<tr><td>establishments.csv</td><td>address, city, state, zip</td><td>Location of the establishment</td></tr>
+<tr><td>establishments.csv</td><td>current_grade, current_demerits, last_inspection_date</td><td>Result of the most recent graded inspection (date as YYYY-MM-DD)</td></tr>
+<tr><td>establishments.csv</td><td>permit_status, permit_holder</td><td>Open or Closed, and the legal permit holder</td></tr>
+<tr><td>inspections.csv</td><td>permit_number, inspection_date, inspection_type</td><td>One row per inspection</td></tr>
+<tr><td>inspections.csv</td><td>grade, demerits, violation_codes</td><td>Grade and demerits; space-separated violation codes</td></tr>
+</tbody></table></main></div>
+<footer id="ftr"></footer>
+<script src="../shared/common.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

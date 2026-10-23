@@ -1,0 +1,301 @@
+﻿permit_number,establishment_name,category,hotel_property,address,city,state,zip,current_grade,current_demerits,last_inspection_date,permit_status,permit_holder
+PR0062606,Adams’s Catering,Caterer,,2054 S Valley View Blvd,Henderson,NV,89014,B,17,2026-06-27,Open,Adams’s Catering LLC
+PR0031070,Adatum Bakery,Bakery,,9521 W Lake Mead Blvd,Las Vegas,NV,89102,A,6,2026-02-03,Open,Adatum Bakery LLC
+PR0063550,Adatum BBQ,Restaurant,,7946 W Sahara Ave,Las Vegas,NV,89109,C,25,2026-08-11,Open,Adatum BBQ LLC
+PR0049187,Adatum Buffet,Buffet,,4611 E Flamingo Rd,North Las Vegas,NV,89081,A,9,2026-01-27,Open,Adatum Buffet LLC
+PR0033549,Adatum Snack Bar,Snack Bar,,8004 E Silverado Ranch Blvd,Las Vegas,NV,89119,A,10,2026-10-09,Open,Adatum Snack Bar LLC
+PR0010586,Adventure Works – Banquet Kitchen,Banquet Kitchen,Adventure Works Resort & Casino,3355 S Las Vegas Blvd,Las Vegas,NV,89109,A,3,2026-10-21,Open,Adventure Works Resorts LLC
+PR0010290,Adventure Works – Buffet,Buffet,Adventure Works Resort & Casino,3355 S Las Vegas Blvd,Las Vegas,NV,89109,A,9,2026-04-06,Open,Adventure Works Resorts LLC
+PR0010747,Adventure Works – Coffee Bar,Coffee Shop,Adventure Works Resort & Casino,3355 S Las Vegas Blvd,Las Vegas,NV,89109,A,2,2026-03-03,Open,Adventure Works Resorts LLC
+PR0011146,Adventure Works – Employee Dining Room,Restaurant,Adventure Works Resort & Casino,3355 S Las Vegas Blvd,Las Vegas,NV,89109,A,5,2026-10-13,Open,Adventure Works Resorts LLC
+PR0010275,Adventure Works – Lobby Bar,Bar / Tavern,Adventure Works Resort & Casino,3355 S Las Vegas Blvd,Las Vegas,NV,89109,A,0,2026-08-12,Open,Adventure Works Resorts LLC
+PR0011505,Adventure Works – Pastry Kitchen,Restaurant,Adventure Works Resort & Casino,3355 S Las Vegas Blvd,Las Vegas,NV,89109,A,0,2026-01-02,Open,Adventure Works Resorts LLC
+PR0010263,Adventure Works – Pool Grill,Restaurant,Adventure Works Resort & Casino,3355 S Las Vegas Blvd,Las Vegas,NV,89109,A,6,2026-07-07,Open,Adventure Works Resorts LLC
+PR0010807,Adventure Works – Room Service Kitchen,Restaurant,Adventure Works Resort & Casino,3355 S Las Vegas Blvd,Las Vegas,NV,89109,B,12,2026-01-04,Open,Adventure Works Resorts LLC
+PR0011856,Adventure Works – Sports Book Bar,Bar / Tavern,Adventure Works Resort & Casino,3355 S Las Vegas Blvd,Las Vegas,NV,89109,A,7,2026-03-08,Open,Adventure Works Resorts LLC
+PR0010165,Adventure Works – Steakhouse,Restaurant,Adventure Works Resort & Casino,3355 S Las Vegas Blvd,Las Vegas,NV,89109,A,4,2026-06-20,Open,Adventure Works Resorts LLC
+PR0031761,Alpine Buffet,Buffet,,103 W Charleston Blvd,Las Vegas,NV,89121,A,6,2026-10-12,Open,Alpine Buffet LLC
+PR0050028,Alpine Catering,Caterer,,6359 Green Valley Pkwy Ste 212,Boulder City,NV,89005,A,5,2026-04-16,Open,Alpine Catering LLC
+PR0058063,Alpine Diner,Restaurant,,9001 Green Valley Pkwy Ste 197,Henderson,NV,89074,A,8,2026-06-02,Open,Alpine Diner LLC
+PR0030922,Basin Buffet,Buffet,,6215 S Jones Blvd,Las Vegas,NV,89169,B,16,2026-10-13,Open,Basin Buffet LLC
+PR0056562,Basin Donuts,Bakery,,6531 E Silverado Ranch Blvd,North Las Vegas,NV,89081,C,26,2026-08-09,Open,Basin Donuts LLC
+PR0037527,Basin Taqueria,Restaurant,,210 Paradise Rd,North Las Vegas,NV,89032,A,8,2026-06-13,Open,Basin Taqueria LLC
+PR0042451,Bellows Bakery,Bakery,,4886 W Sahara Ave Ste 144,Las Vegas,NV,89101,A,10,2026-09-19,Open,Bellows Bakery LLC
+PR0068627,Bellows Bistro,Restaurant,,9270 E Flamingo Rd Ste 198,Las Vegas,NV,89101,A,5,2026-07-27,Open,Bellows Bistro LLC
+PR0043480,Bellows Grill,Restaurant,,8392 W Charleston Blvd,Las Vegas,NV,89123,C,29,2026-01-01,Open,Bellows Grill LLC
+PR0037113,Bellows Snack Bar,Snack Bar,,5966 W Russell Rd,Desert Springs,NV,89139,C,37,2026-08-22,Closed,Bellows Snack Bar LLC
+PR0035900,Black Mountain Catering,Caterer,,4522 S Rainbow Blvd Ste 141,North Las Vegas,NV,89031,A,6,2026-06-06,Open,Black Mountain Catering LLC
+PR0056884,Black Mountain Lounge,Bar / Tavern,,8534 N Rancho Dr,Las Vegas,NV,89102,B,13,2026-01-03,Open,Black Mountain Lounge LLC
+PR0028987,Black Mountain Snack Bar,Snack Bar,,3876 Paradise Rd,Desert Springs,NV,89148,A,1,2026-05-03,Open,Black Mountain Snack Bar LLC
+PR0022535,Blue Yonder – Banquet Kitchen,Banquet Kitchen,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,B,14,2026-08-17,Open,Blue Yonder Inn & Casino LLC
+PR0022044,Blue Yonder – Buffet,Buffet,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,A,7,2026-03-19,Open,Blue Yonder Inn & Casino LLC
+PR0021914,Blue Yonder – Coffee Bar,Coffee Shop,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,A,5,2026-08-08,Open,Blue Yonder Inn & Casino LLC
+PR0021294,Blue Yonder – Lobby Bar,Bar / Tavern,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,A,9,2026-02-19,Open,Blue Yonder Inn & Casino LLC
+PR0022439,Blue Yonder – Main Kitchen,Restaurant,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,A,8,2026-10-28,Open,Blue Yonder Inn & Casino LLC
+PR0021711,Blue Yonder – Pantry,Pantry,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,C,39,2026-03-26,Closed,Blue Yonder Inn & Casino LLC
+PR0021660,Blue Yonder – Pastry Kitchen,Restaurant,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,A,0,2026-04-02,Open,Blue Yonder Inn & Casino LLC
+PR0021175,Blue Yonder – Pool Grill,Restaurant,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,A,6,2026-09-26,Open,Blue Yonder Inn & Casino LLC
+PR0022788,Blue Yonder – Room Service Kitchen,Restaurant,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,A,1,2026-02-05,Open,Blue Yonder Inn & Casino LLC
+PR0020880,Blue Yonder – Steakhouse,Restaurant,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,A,1,2026-03-25,Open,Blue Yonder Inn & Casino LLC
+PR0021105,Blue Yonder – Taqueria,Restaurant,Blue Yonder Inn & Casino,4455 Paradise Rd,Las Vegas,NV,89169,B,19,2026-06-12,Open,Blue Yonder Inn & Casino LLC
+PR0060203,Blue Yonder BBQ,Restaurant,,440 S Fort Apache Rd Ste 111,Henderson,NV,89052,A,1,2026-07-07,Open,Blue Yonder BBQ LLC
+PR0059917,Blue Yonder Catering,Caterer,,229 N Rancho Dr Ste 144,Las Vegas,NV,89104,A,5,2026-08-14,Open,Blue Yonder Catering LLC
+PR0068376,Blue Yonder Coffee,Coffee Shop,,2289 S Fort Apache Rd,Mesquite,NV,89027,A,4,2026-08-21,Open,Blue Yonder Coffee LLC
+PR0047069,Blue Yonder Diner,Restaurant,,6003 S Jones Blvd Ste 166,Las Vegas,NV,89146,A,0,2026-09-18,Open,Blue Yonder Diner LLC
+PR0046328,Blue Yonder Food Truck,Food Truck,,6692 S Eastern Ave,Henderson,NV,89014,B,17,2026-07-03,Open,Blue Yonder Food Truck LLC
+PR0063961,Blue Yonder Pub,Bar / Tavern,,1095 S Maryland Pkwy,Desert Springs,NV,89141,A,2,2026-10-11,Open,Blue Yonder Pub LLC
+PR0026081,Blue Yonder Roasters,Coffee Shop,,9328 W Russell Rd Ste 206,Las Vegas,NV,89103,A,1,2026-06-04,Open,Blue Yonder Roasters LLC
+PR0065068,Bluebird Catering,Caterer,,3913 Green Valley Pkwy,Las Vegas,NV,89123,B,16,2026-10-15,Open,Bluebird Catering LLC
+PR0050437,Bluebird Coffee,Coffee Shop,,9192 W Cactus Ave,Henderson,NV,89002,B,18,2026-07-27,Open,Bluebird Coffee LLC
+PR0039553,Bluebird Mercado,Market,,5788 W Charleston Blvd,Las Vegas,NV,89102,A,3,2026-07-26,Open,Bluebird Mercado LLC
+PR0045766,Brown’s Food Truck,Food Truck,,5185 Paradise Rd,Las Vegas,NV,89146,A,9,2026-06-15,Open,Brown’s Food Truck LLC
+PR0054998,Cactus Buffet,Buffet,,5677 Industrial Rd,North Las Vegas,NV,89031,A,0,2026-07-26,Open,Cactus Buffet LLC
+PR0053309,Cactus Snack Bar,Snack Bar,,8968 W Sahara Ave Ste 244,Las Vegas,NV,89109,B,13,2026-04-06,Open,Cactus Snack Bar LLC
+PR0065865,Canyon Bakery,Bakery,,3683 Horizon Ridge Pkwy,Henderson,NV,89011,B,13,2026-06-28,Open,Canyon Bakery LLC
+PR0052692,Canyon Grill,Restaurant,,8826 S Durango Dr,Henderson,NV,89012,A,6,2026-06-28,Open,Canyon Grill LLC
+PR0065396,Canyon Mercado,Market,,9311 S Fort Apache Rd,Las Vegas,NV,89103,B,17,2026-01-16,Open,Canyon Mercado LLC
+PR0038746,Canyon Pizzeria,Restaurant,,2595 E Silverado Ranch Blvd Ste 281,Boulder City,NV,89005,A,5,2026-05-03,Open,Canyon Pizzeria LLC
+PR0055755,Canyon Snack Bar,Snack Bar,,7934 W Lake Mead Blvd Ste 252,North Las Vegas,NV,89081,A,9,2026-01-11,Open,Canyon Snack Bar LLC
+PR0047150,Carter’s Pub,Bar / Tavern,,3162 S Eastern Ave,Las Vegas,NV,89104,A,6,2026-09-10,Open,Carter’s Pub LLC
+PR0044879,Chen’s Buffet,Buffet,,2825 Paradise Rd,Las Vegas,NV,89123,A,6,2026-07-25,Open,Chen’s Buffet LLC
+PR0047940,Chen’s Snack Bar,Snack Bar,,3949 S Jones Blvd Ste 280,Las Vegas,NV,89119,A,2,2026-03-17,Open,Chen’s Snack Bar LLC
+PR0040927,Clark’s Espresso,Coffee Shop,,9528 E Silverado Ranch Blvd,Las Vegas,NV,89109,B,15,2026-08-08,Open,Clark’s Espresso LLC
+PR0028697,Clark’s Kitchen,Restaurant,,1303 E Sunset Rd Ste 142,Las Vegas,NV,89104,A,2,2026-05-24,Open,Clark’s Kitchen LLC
+PR0074031,Coho Catering LLC,Caterer,,7455 W Warm Springs Rd Ste 140,Desert Springs,NV,89139,A,3,2026-09-11,Open,Coho Catering LLC
+PR0051125,Consolidated Donuts,Bakery,,5231 Green Valley Pkwy Ste 163,Desert Springs,NV,89139,C,33,2026-10-15,Open,Consolidated Donuts LLC
+PR0058153,Consolidated Panaderia,Bakery,,9877 Paradise Rd Ste 270,Pahrump,NV,89048,A,2,2026-03-06,Open,Consolidated Panaderia LLC
+PR0037773,Consolidated Pizzeria,Restaurant,,408 S Rainbow Blvd Ste 156,Las Vegas,NV,89103,A,3,2026-08-04,Open,Consolidated Pizzeria LLC
+PR0043685,Consolidated Snack Bar,Snack Bar,,7328 W Lake Mead Blvd Ste 111,North Las Vegas,NV,89031,A,5,2026-05-25,Open,Consolidated Snack Bar LLC
+PR0044015,Contoso Catering,Caterer,,9666 W Warm Springs Rd,North Las Vegas,NV,89081,A,5,2026-05-15,Open,Contoso Catering LLC
+PR0013872,Contoso Grand – Coffee Bar,Coffee Shop,Contoso Grand Hotel,3570 S Las Vegas Blvd,Las Vegas,NV,89109,A,1,2026-06-11,Open,Contoso Grand Hotel LLC
+PR0013273,Contoso Grand – Employee Dining Room,Restaurant,Contoso Grand Hotel,3570 S Las Vegas Blvd,Las Vegas,NV,89109,A,9,2026-08-11,Open,Contoso Grand Hotel LLC
+PR0013395,Contoso Grand – Nightclub Bar,Bar / Tavern,Contoso Grand Hotel,3570 S Las Vegas Blvd,Las Vegas,NV,89109,A,3,2026-02-22,Open,Contoso Grand Hotel LLC
+PR0013913,Contoso Grand – Noodle House,Restaurant,Contoso Grand Hotel,3570 S Las Vegas Blvd,Las Vegas,NV,89109,A,8,2026-09-11,Open,Contoso Grand Hotel LLC
+PR0012747,Contoso Grand – Pantry,Pantry,Contoso Grand Hotel,3570 S Las Vegas Blvd,Las Vegas,NV,89109,A,1,2026-05-23,Open,Contoso Grand Hotel LLC
+PR0012883,Contoso Grand – Pool Grill,Restaurant,Contoso Grand Hotel,3570 S Las Vegas Blvd,Las Vegas,NV,89109,A,4,2026-06-12,Open,Contoso Grand Hotel LLC
+PR0012355,Contoso Grand – Room Service Kitchen,Restaurant,Contoso Grand Hotel,3570 S Las Vegas Blvd,Las Vegas,NV,89109,A,0,2026-05-16,Open,Contoso Grand Hotel LLC
+PR0012195,Contoso Grand – Sports Book Bar,Bar / Tavern,Contoso Grand Hotel,3570 S Las Vegas Blvd,Las Vegas,NV,89109,A,8,2026-09-19,Open,Contoso Grand Hotel LLC
+PR0012041,Contoso Grand – Steakhouse,Restaurant,Contoso Grand Hotel,3570 S Las Vegas Blvd,Las Vegas,NV,89109,A,3,2026-09-17,Open,Contoso Grand Hotel LLC
+PR0013613,Contoso Grand – Sushi Bar,Restaurant,Contoso Grand Hotel,3570 S Las Vegas Blvd,Las Vegas,NV,89109,A,3,2026-01-03,Open,Contoso Grand Hotel LLC
+PR0057669,Contoso Lounge,Bar / Tavern,,3853 S Maryland Pkwy,Las Vegas,NV,89109,B,16,2026-03-17,Open,Contoso Lounge LLC
+PR0034037,Contoso Pizzeria,Restaurant,,7419 W Tropicana Ave Ste 271,Las Vegas,NV,89146,A,10,2026-07-10,Open,Contoso Pizzeria LLC
+PR0036818,Copper Bakery,Bakery,,7099 N Rancho Dr,Desert Springs,NV,89141,B,12,2026-06-23,Open,Copper Bakery LLC
+PR0024555,Copper Buffet,Buffet,,7852 Horizon Ridge Pkwy Ste 259,North Las Vegas,NV,89030,A,7,2026-08-12,Open,Copper Buffet LLC
+PR0050127,Copper Catering,Caterer,,7997 S Jones Blvd,Las Vegas,NV,89169,A,8,2026-08-06,Open,Copper Catering LLC
+PR0025742,Copper Food Truck,Food Truck,,9075 S Rainbow Blvd Ste 278,Las Vegas,NV,89103,A,7,2026-01-24,Open,Copper Food Truck LLC
+PR0060504,Copper Market,Market,,9450 E Flamingo Rd,Henderson,NV,89002,A,0,2026-08-27,Open,Copper Market LLC
+PR0025019,Copper Pho,Restaurant,,6728 S Valley View Blvd,North Las Vegas,NV,89031,C,33,2026-07-26,Open,Copper Pho LLC
+PR0061895,Coyote Bistro,Restaurant,,3057 E Flamingo Rd,Las Vegas,NV,89123,A,7,2026-07-06,Open,Coyote Bistro LLC
+PR0038152,Coyote Espresso,Coffee Shop,,5532 Green Valley Pkwy Ste 183,Pahrump,NV,89060,A,8,2026-04-12,Open,Coyote Espresso LLC
+PR0029627,Coyote Food Truck,Food Truck,,1708 W Sahara Ave Ste 147,Las Vegas,NV,89169,A,6,2026-06-12,Open,Coyote Food Truck LLC
+PR0064874,Coyote Pho,Restaurant,,7122 E Desert Inn Rd,Las Vegas,NV,89119,C,22,2026-06-13,Open,Coyote Pho LLC
+PR0053634,Desert BBQ,Restaurant,,6560 W Russell Rd,Las Vegas,NV,89123,A,0,2026-09-11,Open,Desert BBQ LLC
+PR0031778,Desert Buffet,Buffet,,3378 Horizon Ridge Pkwy,Las Vegas,NV,89104,C,34,2026-07-24,Open,Desert Buffet LLC
+PR0050842,Desert Coffee,Coffee Shop,,3406 W Charleston Blvd,Henderson,NV,89074,B,11,2026-03-28,Open,Desert Coffee LLC
+PR0056115,Desert Roasters,Coffee Shop,,9641 W Charleston Blvd,North Las Vegas,NV,89031,A,3,2026-02-08,Open,Desert Roasters LLC
+PR0055277,Fabrikam Donuts,Bakery,,754 S Eastern Ave,Las Vegas,NV,89119,A,7,2026-09-04,Open,Fabrikam Donuts LLC
+PR0062150,Fabrikam Roasters,Coffee Shop,,6754 E Desert Inn Rd Ste 173,Desert Springs,NV,89141,C,27,2026-06-20,Open,Fabrikam Roasters LLC
+PR0016255,Fabrikam Tower – Buffet,Buffet,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,A,3,2026-10-07,Open,Fabrikam Tower Las Vegas LLC
+PR0014487,Fabrikam Tower – Coffee Bar,Coffee Shop,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,B,13,2026-03-21,Open,Fabrikam Tower Las Vegas LLC
+PR0015367,Fabrikam Tower – Employee Dining Room,Restaurant,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,A,5,2026-02-01,Open,Fabrikam Tower Las Vegas LLC
+PR0014448,Fabrikam Tower – Main Kitchen,Restaurant,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,A,3,2026-09-12,Open,Fabrikam Tower Las Vegas LLC
+PR0014767,Fabrikam Tower – Nightclub Bar,Bar / Tavern,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,A,8,2026-03-05,Open,Fabrikam Tower Las Vegas LLC
+PR0015873,Fabrikam Tower – Noodle House,Restaurant,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,B,16,2026-04-10,Open,Fabrikam Tower Las Vegas LLC
+PR0014126,Fabrikam Tower – Pantry,Pantry,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,A,9,2026-08-10,Open,Fabrikam Tower Las Vegas LLC
+PR0016170,Fabrikam Tower – Pool Grill,Restaurant,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,A,9,2026-02-23,Open,Fabrikam Tower Las Vegas LLC
+PR0016326,Fabrikam Tower – Room Service Kitchen,Restaurant,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,A,2,2026-06-20,Open,Fabrikam Tower Las Vegas LLC
+PR0015285,Fabrikam Tower – Sports Book Bar,Bar / Tavern,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,A,4,2026-01-04,Open,Fabrikam Tower Las Vegas LLC
+PR0015132,Fabrikam Tower – Steakhouse,Restaurant,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,A,6,2026-03-19,Open,Fabrikam Tower Las Vegas LLC
+PR0015590,Fabrikam Tower – Sushi Bar,Restaurant,Fabrikam Tower Las Vegas,2000 S Las Vegas Blvd,Las Vegas,NV,89104,A,1,2026-09-25,Open,Fabrikam Tower Las Vegas LLC
+PR0037215,Flores’s Saloon,Bar / Tavern,,7386 S Maryland Pkwy,Pahrump,NV,89060,A,8,2026-07-22,Open,Flores’s Saloon LLC
+PR0067846,Fourth Street Food Truck,Food Truck,,2471 S Rainbow Blvd,Las Vegas,NV,89103,A,3,2026-07-27,Open,Fourth Street Food Truck LLC
+PR0051085,Fourth Street Market,Market,,1713 W Cactus Ave,Mesquite,NV,89027,A,10,2026-10-06,Open,Fourth Street Market LLC
+PR0053853,Fourth Street Pub,Bar / Tavern,,3443 W Warm Springs Rd,Las Vegas,NV,89121,A,2,2026-06-27,Open,Fourth Street Pub LLC
+PR0039643,Fourth Street Snack Bar,Snack Bar,,288 N Rancho Dr,Pahrump,NV,89060,A,0,2026-02-19,Open,Fourth Street Snack Bar LLC
+PR0050650,Fourth Street Taqueria,Restaurant,,4072 W Sahara Ave,North Las Vegas,NV,89030,C,29,2026-10-06,Open,Fourth Street Taqueria LLC
+PR0043603,Granite Coffee,Coffee Shop,,6811 S Maryland Pkwy,Henderson,NV,89011,A,8,2026-01-12,Open,Granite Coffee LLC
+PR0058995,Granite Grocery,Market,,7274 S Durango Dr,Henderson,NV,89012,A,9,2026-08-08,Open,Granite Grocery LLC
+PR0028347,Granite Ramen,Restaurant,,8684 S Decatur Blvd Ste 288,Desert Springs,NV,89139,C,34,2026-08-25,Open,Granite Ramen LLC
+PR0040094,Granite Tavern,Bar / Tavern,,9799 Industrial Rd,Las Vegas,NV,89119,A,8,2026-03-18,Open,Granite Tavern LLC
+PR0037314,Graphic Buffet,Buffet,,374 S Eastern Ave,Desert Springs,NV,89139,A,2,2026-03-06,Open,Graphic Buffet LLC
+PR0031418,Graphic Diner,Restaurant,,1758 Industrial Rd,Henderson,NV,89002,A,6,2026-01-02,Open,Graphic Diner LLC
+PR0039297,Graphic Kitchen,Restaurant,,2137 S Jones Blvd Ste 204,North Las Vegas,NV,89031,A,2,2026-01-17,Open,Graphic Kitchen LLC
+PR0043925,Graphic Taqueria,Restaurant,,7399 W Lake Mead Blvd Ste 288,Henderson,NV,89015,C,36,2026-08-22,Closed,Graphic Taqueria LLC
+PR0066063,Green’s Snack Bar,Snack Bar,,3752 W Tropicana Ave,Desert Springs,NV,89148,A,10,2026-07-08,Open,Green’s Snack Bar LLC
+PR0058704,Haddad’s Buffet,Buffet,,8802 E Desert Inn Rd,Henderson,NV,89012,A,0,2026-04-20,Open,Haddad’s Buffet LLC
+PR0052405,Haddad’s Food Truck,Food Truck,,3304 W Russell Rd Ste 208,Desert Springs,NV,89141,A,8,2026-02-04,Open,Haddad’s Food Truck LLC
+PR0064447,Harris’s Taqueria,Restaurant,,1941 Horizon Ridge Pkwy,North Las Vegas,NV,89081,A,10,2026-01-17,Open,Harris’s Taqueria LLC
+PR0030791,High Desert Food Truck,Food Truck,,5889 W Russell Rd Ste 176,Las Vegas,NV,89101,A,0,2026-02-23,Open,High Desert Food Truck LLC
+PR0042935,High Desert Roasters,Coffee Shop,,5210 S Maryland Pkwy,Las Vegas,NV,89101,A,5,2026-06-27,Open,High Desert Roasters LLC
+PR0059379,Hill’s Panaderia,Bakery,,4895 W Warm Springs Rd,Henderson,NV,89015,A,8,2026-08-22,Open,Hill’s Panaderia LLC
+PR0036666,Horizon BBQ,Restaurant,,2574 E Silverado Ranch Blvd,Henderson,NV,89011,A,5,2026-04-04,Open,Horizon BBQ LLC
+PR0045975,Horizon Diner,Restaurant,,5824 Industrial Rd,Las Vegas,NV,89109,A,5,2026-07-25,Open,Horizon Diner LLC
+PR0053131,Horizon Snack Bar,Snack Bar,,4228 S Jones Blvd,Las Vegas,NV,89101,B,19,2026-10-16,Open,Horizon Snack Bar LLC
+PR0068471,Humongous BBQ,Restaurant,,2173 Paradise Rd,Las Vegas,NV,89123,A,3,2026-02-03,Open,Humongous BBQ LLC
+PR0055744,Humongous Bistro,Restaurant,,2071 W Cactus Ave,Las Vegas,NV,89146,A,1,2026-06-09,Open,Humongous Bistro LLC
+PR0028514,Humongous Buffet,Buffet,,1322 S Durango Dr,Henderson,NV,89012,B,18,2026-07-01,Open,Humongous Buffet LLC
+PR0033323,Humongous Catering,Caterer,,1584 W Cactus Ave,Henderson,NV,89002,C,34,2026-08-01,Open,Humongous Catering LLC
+PR0022950,Humongous Palms – Buffet,Buffet,Humongous Palms Resort,4321 W Flamingo Rd,Las Vegas,NV,89103,A,2,2026-01-18,Open,Humongous Palms Resort LLC
+PR0024274,Humongous Palms – Employee Dining Room,Restaurant,Humongous Palms Resort,4321 W Flamingo Rd,Las Vegas,NV,89103,A,7,2026-01-23,Open,Humongous Palms Resort LLC
+PR0023338,Humongous Palms – Noodle House,Restaurant,Humongous Palms Resort,4321 W Flamingo Rd,Las Vegas,NV,89103,A,10,2026-02-04,Open,Humongous Palms Resort LLC
+PR0024337,Humongous Palms – Pool Grill,Restaurant,Humongous Palms Resort,4321 W Flamingo Rd,Las Vegas,NV,89103,B,16,2026-05-24,Open,Humongous Palms Resort LLC
+PR0023649,Humongous Palms – Room Service Kitchen,Restaurant,Humongous Palms Resort,4321 W Flamingo Rd,Las Vegas,NV,89103,B,17,2026-07-20,Open,Humongous Palms Resort LLC
+PR0023028,Humongous Palms – Steakhouse,Restaurant,Humongous Palms Resort,4321 W Flamingo Rd,Las Vegas,NV,89103,A,7,2026-07-01,Open,Humongous Palms Resort LLC
+PR0023993,Humongous Palms – Sushi Bar,Restaurant,Humongous Palms Resort,4321 W Flamingo Rd,Las Vegas,NV,89103,A,0,2026-09-01,Open,Humongous Palms Resort LLC
+PR0044504,Humongous Tavern,Bar / Tavern,,7127 E Desert Inn Rd,North Las Vegas,NV,89032,A,3,2026-10-11,Open,Humongous Tavern LLC
+PR0034253,Ironwood Bakery,Bakery,,5099 W Tropicana Ave Ste 116,Pahrump,NV,89048,A,8,2026-06-01,Open,Ironwood Bakery LLC
+PR0041644,Ironwood Food Truck,Food Truck,,4181 W Warm Springs Rd,Desert Springs,NV,89141,A,7,2026-06-11,Open,Ironwood Food Truck LLC
+PR0066183,Ironwood Market,Market,,3333 E Sunset Rd Ste 113,North Las Vegas,NV,89081,A,6,2026-05-13,Open,Ironwood Market LLC
+PR0061880,Jackson’s Food Truck,Food Truck,,2153 W Tropicana Ave,Henderson,NV,89012,A,0,2026-06-06,Open,Jackson’s Food Truck LLC
+PR0051903,Johnson’s Buffet,Buffet,,1823 W Cactus Ave,Boulder City,NV,89005,A,3,2026-03-22,Open,Johnson’s Buffet LLC
+PR0055577,Johnson’s Diner,Restaurant,,3313 W Cactus Ave Ste 104,North Las Vegas,NV,89032,A,10,2026-05-26,Open,Johnson’s Diner LLC
+PR0030233,Johnson’s Grill,Restaurant,,1232 S Valley View Blvd Ste 231,Las Vegas,NV,89121,B,17,2026-01-02,Open,Johnson’s Grill LLC
+PR0041948,Juniper Buffet,Buffet,,416 W Sahara Ave,Las Vegas,NV,89109,A,9,2026-09-18,Open,Juniper Buffet LLC
+PR0045852,Juniper Pizzeria,Restaurant,,5490 S Durango Dr Ste 205,Las Vegas,NV,89119,B,17,2026-06-21,Open,Juniper Pizzeria LLC
+PR0031985,Juniper Snack Bar,Snack Bar,,2044 E Sunset Rd,Henderson,NV,89012,A,2,2026-04-08,Open,Juniper Snack Bar LLC
+PR0048937,Kim’s Buffet,Buffet,,8991 W Sahara Ave,North Las Vegas,NV,89031,B,19,2026-07-17,Open,Kim’s Buffet LLC
+PR0049827,King’s Buffet,Buffet,,8842 E Flamingo Rd,Las Vegas,NV,89101,A,1,2026-03-07,Open,King’s Buffet LLC
+PR0054086,King’s Snack Bar,Snack Bar,,4069 S Fort Apache Rd Ste 233,North Las Vegas,NV,89031,A,3,2026-04-03,Open,King’s Snack Bar LLC
+PR0033949,Lakeview Catering,Caterer,,5323 Paradise Rd Ste 200,Las Vegas,NV,89109,A,3,2026-04-03,Open,Lakeview Catering LLC
+PR0066424,Lakeview Espresso,Coffee Shop,,9640 W Russell Rd Ste 280,Boulder City,NV,89005,A,8,2026-10-15,Open,Lakeview Espresso LLC
+PR0067659,Lakeview Food Truck,Food Truck,,4936 S Fort Apache Rd Ste 138,North Las Vegas,NV,89032,A,10,2026-06-15,Open,Lakeview Food Truck LLC
+PR0027723,Lakeview Panaderia,Bakery,,2374 Industrial Rd,Las Vegas,NV,89102,A,0,2026-10-17,Open,Lakeview Panaderia LLC
+PR0027309,Lakeview Pizzeria,Restaurant,,5885 E Silverado Ranch Blvd,Desert Springs,NV,89148,B,12,2026-09-16,Open,Lakeview Pizzeria LLC
+PR0043154,Lakeview Saloon,Bar / Tavern,,2177 S Fort Apache Rd,Las Vegas,NV,89146,A,3,2026-03-26,Open,Lakeview Saloon LLC
+PR0032048,Lamna Espresso,Coffee Shop,,5762 W Cactus Ave Ste 282,Las Vegas,NV,89102,A,9,2026-04-06,Open,Lamna Espresso LLC
+PR0024678,Lamna Food Truck,Food Truck,,2301 W Cactus Ave,Las Vegas,NV,89119,B,11,2026-02-10,Open,Lamna Food Truck LLC
+PR0067999,Lamna Saloon,Bar / Tavern,,1824 W Lake Mead Blvd,North Las Vegas,NV,89032,A,8,2026-01-16,Open,Lamna Saloon LLC
+PR0032937,Lewis’s Bakery,Bakery,,875 W Lake Mead Blvd,Las Vegas,NV,89119,A,10,2026-04-16,Open,Lewis’s Bakery LLC
+PR0036408,Lewis’s Coffee,Coffee Shop,,1269 E Desert Inn Rd Ste 205,Las Vegas,NV,89169,A,7,2026-08-11,Open,Lewis’s Coffee LLC
+PR0040810,Lewis’s Lounge,Bar / Tavern,,8160 S Decatur Blvd Ste 118,Las Vegas,NV,89109,A,0,2026-07-01,Open,Lewis’s Lounge LLC
+PR0058291,Litware Coffee,Coffee Shop,,937 S Fort Apache Rd,North Las Vegas,NV,89031,A,4,2026-03-25,Open,Litware Coffee LLC
+PR0058614,Litware Grill,Restaurant,,8185 S Eastern Ave,North Las Vegas,NV,89081,A,7,2026-09-25,Open,Litware Grill LLC
+PR0026147,Litware Lounge,Bar / Tavern,,8541 S Rainbow Blvd Ste 152,Las Vegas,NV,89104,A,0,2026-06-24,Open,Litware Lounge LLC
+PR0059834,Lopez’s Buffet,Buffet,,4893 S Maryland Pkwy Ste 268,Las Vegas,NV,89103,A,1,2026-03-03,Open,Lopez’s Buffet LLC
+PR0017939,Margie’s Plaza – Banquet Kitchen,Banquet Kitchen,Margie’s Plaza Hotel,1 S Main St,Las Vegas,NV,89101,B,20,2026-05-07,Open,Margie’s Plaza Hotel LLC
+PR0018407,Margie’s Plaza – Buffet,Buffet,Margie’s Plaza Hotel,1 S Main St,Las Vegas,NV,89101,B,11,2026-02-13,Open,Margie’s Plaza Hotel LLC
+PR0017997,Margie’s Plaza – Lobby Bar,Bar / Tavern,Margie’s Plaza Hotel,1 S Main St,Las Vegas,NV,89101,C,30,2026-07-09,Open,Margie’s Plaza Hotel LLC
+PR0017434,Margie’s Plaza – Nightclub Bar,Bar / Tavern,Margie’s Plaza Hotel,1 S Main St,Las Vegas,NV,89101,A,7,2026-03-15,Open,Margie’s Plaza Hotel LLC
+PR0018020,Margie’s Plaza – Pool Grill,Restaurant,Margie’s Plaza Hotel,1 S Main St,Las Vegas,NV,89101,A,0,2026-07-03,Open,Margie’s Plaza Hotel LLC
+PR0017901,Margie’s Plaza – Room Service Kitchen,Restaurant,Margie’s Plaza Hotel,1 S Main St,Las Vegas,NV,89101,A,6,2026-02-06,Open,Margie’s Plaza Hotel LLC
+PR0017722,Margie’s Plaza – Sports Book Bar,Bar / Tavern,Margie’s Plaza Hotel,1 S Main St,Las Vegas,NV,89101,B,16,2026-05-03,Open,Margie’s Plaza Hotel LLC
+PR0018539,Margie’s Plaza – Sushi Bar,Restaurant,Margie’s Plaza Hotel,1 S Main St,Las Vegas,NV,89101,A,3,2026-09-22,Open,Margie’s Plaza Hotel LLC
+PR0049264,Martin’s Buffet,Buffet,,4876 W Russell Rd,Desert Springs,NV,89148,A,9,2026-08-08,Open,Martin’s Buffet LLC
+PR0056362,Martin’s Market,Market,,3659 W Warm Springs Rd Ste 291,Henderson,NV,89015,A,3,2026-03-12,Open,Martin’s Market LLC
+PR0057188,Martinez’s Grocery,Market,,8166 E Desert Inn Rd,North Las Vegas,NV,89030,A,4,2026-07-05,Open,Martinez’s Grocery LLC
+PR0054682,Martinez’s Kitchen,Restaurant,,8893 S Durango Dr,Henderson,NV,89015,A,4,2026-10-19,Open,Martinez’s Kitchen LLC
+PR0057231,Meadow Kitchen,Restaurant,,4771 W Lake Mead Blvd,Henderson,NV,89002,A,0,2026-10-10,Open,Meadow Kitchen LLC
+PR0069257,Mitchell’s Snack Bar,Snack Bar,,3012 S Maryland Pkwy,Boulder City,NV,89005,A,8,2026-05-12,Open,Mitchell’s Snack Bar LLC
+PR0053841,Mojave Donuts,Bakery,,5750 W Sahara Ave,Las Vegas,NV,89109,A,0,2026-10-16,Open,Mojave Donuts LLC
+PR0065624,Mojave Grill,Restaurant,,3897 S Eastern Ave Ste 246,Las Vegas,NV,89109,A,6,2026-03-04,Open,Mojave Grill LLC
+PR0067366,Moore’s Buffet,Buffet,,9020 W Tropicana Ave,Desert Springs,NV,89141,A,3,2026-08-26,Open,Moore’s Buffet LLC
+PR0059282,Moore’s Kitchen,Restaurant,,1826 Green Valley Pkwy,Henderson,NV,89052,A,3,2026-07-11,Open,Moore’s Kitchen LLC
+PR0040560,Mustang Buffet,Buffet,,4570 Paradise Rd,Desert Springs,NV,89139,B,15,2026-04-25,Open,Mustang Buffet LLC
+PR0031307,Mustang Food Truck,Food Truck,,2008 Horizon Ridge Pkwy,Desert Springs,NV,89141,B,14,2026-10-17,Open,Mustang Food Truck LLC
+PR0047001,Mustang Grocery,Market,,1489 W Russell Rd,Las Vegas,NV,89102,A,3,2026-04-14,Open,Mustang Grocery LLC
+PR0056748,Nelson’s Bakery,Bakery,,7039 S Decatur Blvd,Las Vegas,NV,89169,A,1,2026-08-28,Open,Nelson’s Bakery LLC
+PR0066248,Nguyen’s Catering,Caterer,,6409 E Desert Inn Rd,Desert Springs,NV,89148,A,2,2026-09-23,Open,Nguyen’s Catering LLC
+PR0067464,Nguyen’s Mercado,Market,,2920 E Flamingo Rd,Desert Springs,NV,89141,C,32,2026-05-27,Open,Nguyen’s Mercado LLC
+PR0062936,Novak’s Donuts,Bakery,,6880 W Charleston Blvd,Henderson,NV,89012,A,0,2026-04-12,Open,Novak’s Donuts LLC
+PR0044595,Novak’s Pho,Restaurant,,9733 Horizon Ridge Pkwy,Mesquite,NV,89027,B,12,2026-07-28,Open,Novak’s Pho LLC
+PR0031683,Okafor’s BBQ,Restaurant,,9086 E Sunset Rd,Las Vegas,NV,89103,A,1,2026-04-14,Open,Okafor’s BBQ LLC
+PR0029745,Okafor’s Buffet,Buffet,,4573 S Maryland Pkwy,Henderson,NV,89012,A,3,2026-09-14,Open,Okafor’s Buffet LLC
+PR0042429,Okafor’s Food Truck,Food Truck,,5174 N Rancho Dr,Las Vegas,NV,89103,A,2,2026-09-02,Open,Okafor’s Food Truck LLC
+PR0042366,Okafor’s Snack Bar,Snack Bar,,5683 E Desert Inn Rd,Pahrump,NV,89060,A,2,2026-07-18,Open,Okafor’s Snack Bar LLC
+PR0048557,Paradise Buffet,Buffet,,8284 E Flamingo Rd,Las Vegas,NV,89121,B,15,2026-01-05,Open,Paradise Buffet LLC
+PR0030400,Paradise Espresso,Coffee Shop,,7069 Industrial Rd,Las Vegas,NV,89169,A,10,2026-01-07,Open,Paradise Espresso LLC
+PR0026667,Patel’s Kitchen,Restaurant,,1064 Industrial Rd,Las Vegas,NV,89169,A,2,2026-09-24,Open,Patel’s Kitchen LLC
+PR0037299,Perez’s Catering,Caterer,,4089 S Eastern Ave,Desert Springs,NV,89141,A,3,2026-02-09,Open,Perez’s Catering LLC
+PR0061190,Pinnacle Saloon,Bar / Tavern,,4807 S Durango Dr,Las Vegas,NV,89121,A,7,2026-07-22,Open,Pinnacle Saloon LLC
+PR0047393,Proseware Catering,Caterer,,7978 S Eastern Ave Ste 188,Las Vegas,NV,89101,B,14,2026-09-20,Open,Proseware Catering LLC
+PR0054893,Proseware Espresso,Coffee Shop,,6952 E Flamingo Rd,Pahrump,NV,89048,A,6,2026-05-20,Open,Proseware Espresso LLC
+PR0034610,Proseware Kitchen,Restaurant,,7866 E Flamingo Rd,Henderson,NV,89002,A,3,2026-05-03,Open,Proseware Kitchen LLC
+PR0046175,Proseware Snack Bar,Snack Bar,,109 W Russell Rd,Las Vegas,NV,89121,A,2,2026-05-16,Open,Proseware Snack Bar LLC
+PR0057527,Proseware Taqueria,Restaurant,,9212 Horizon Ridge Pkwy Ste 200,Mesquite,NV,89027,A,9,2026-05-23,Open,Proseware Taqueria LLC
+PR0063219,Ramirez’s Snack Bar,Snack Bar,,3201 W Charleston Blvd Ste 296,Las Vegas,NV,89103,A,8,2026-01-25,Open,Ramirez’s Snack Bar LLC
+PR0060830,Red Rock Bakery,Bakery,,8045 S Valley View Blvd,Las Vegas,NV,89103,C,32,2026-03-18,Open,Red Rock Bakery LLC
+PR0042581,Red Rock Bistro,Restaurant,,7679 E Desert Inn Rd,Las Vegas,NV,89146,B,16,2026-05-16,Open,Red Rock Bistro LLC
+PR0026363,Red Rock Food Truck,Food Truck,,3897 W Tropicana Ave,Henderson,NV,89014,A,8,2026-02-19,Open,Red Rock Food Truck LLC
+PR0069508,Red Rock Ramen,Restaurant,,3798 W Lake Mead Blvd Ste 105,Desert Springs,NV,89139,A,9,2026-08-27,Open,Red Rock Ramen LLC
+PR0064488,Red Rock Taqueria,Restaurant,,6501 Paradise Rd,North Las Vegas,NV,89032,A,5,2026-07-27,Open,Red Rock Taqueria LLC
+PR0055166,Relecloud Market,Market,,8170 S Eastern Ave,Las Vegas,NV,89109,A,5,2026-02-16,Open,Relecloud Market LLC
+PR0048294,Relecloud Mercado,Market,,7936 S Eastern Ave Ste 101,Mesquite,NV,89027,A,9,2026-06-16,Open,Relecloud Mercado LLC
+PR0032244,Relecloud Panaderia,Bakery,,969 S Eastern Ave Ste 233,Mesquite,NV,89027,A,0,2026-04-03,Open,Relecloud Panaderia LLC
+PR0020698,Relecloud Suites – Banquet Kitchen,Banquet Kitchen,Relecloud Suites,255 E Flamingo Rd,Las Vegas,NV,89169,B,14,2026-04-25,Open,Relecloud Suites LLC
+PR0020368,Relecloud Suites – Buffet,Buffet,Relecloud Suites,255 E Flamingo Rd,Las Vegas,NV,89169,A,7,2026-10-02,Open,Relecloud Suites LLC
+PR0019205,Relecloud Suites – Coffee Bar,Coffee Shop,Relecloud Suites,255 E Flamingo Rd,Las Vegas,NV,89169,A,8,2026-06-15,Open,Relecloud Suites LLC
+PR0019323,Relecloud Suites – Employee Dining Room,Restaurant,Relecloud Suites,255 E Flamingo Rd,Las Vegas,NV,89169,A,6,2026-06-27,Open,Relecloud Suites LLC
+PR0020012,Relecloud Suites – Lobby Bar,Bar / Tavern,Relecloud Suites,255 E Flamingo Rd,Las Vegas,NV,89169,A,2,2026-07-15,Open,Relecloud Suites LLC
+PR0019471,Relecloud Suites – Pool Grill,Restaurant,Relecloud Suites,255 E Flamingo Rd,Las Vegas,NV,89169,B,12,2026-05-22,Open,Relecloud Suites LLC
+PR0018691,Relecloud Suites – Room Service Kitchen,Restaurant,Relecloud Suites,255 E Flamingo Rd,Las Vegas,NV,89169,A,5,2026-08-16,Open,Relecloud Suites LLC
+PR0019687,Relecloud Suites – Sports Book Bar,Bar / Tavern,Relecloud Suites,255 E Flamingo Rd,Las Vegas,NV,89169,A,6,2026-04-28,Open,Relecloud Suites LLC
+PR0018951,Relecloud Suites – Steakhouse,Restaurant,Relecloud Suites,255 E Flamingo Rd,Las Vegas,NV,89169,A,9,2026-07-01,Open,Relecloud Suites LLC
+PR0061504,Rivera’s Buffet,Buffet,,5750 W Charleston Blvd Ste 251,Desert Springs,NV,89141,A,2,2026-08-16,Open,Rivera’s Buffet LLC
+PR0028738,Roberts’s Catering,Caterer,,6117 W Russell Rd Ste 170,Las Vegas,NV,89121,A,9,2026-07-27,Open,Roberts’s Catering LLC
+PR0057119,Roberts’s Espresso,Coffee Shop,,1844 S Fort Apache Rd,Las Vegas,NV,89109,A,6,2026-09-04,Open,Roberts’s Espresso LLC
+PR0052264,Roberts’s Food Truck,Food Truck,,8987 Paradise Rd,Las Vegas,NV,89104,A,7,2026-09-16,Open,Roberts’s Food Truck LLC
+PR0065564,Roberts’s Roasters,Coffee Shop,,2895 E Silverado Ranch Blvd,Boulder City,NV,89005,A,6,2026-02-17,Open,Roberts’s Roasters LLC
+PR0029344,Robinson’s Snack Bar,Snack Bar,,6970 W Cactus Ave,Boulder City,NV,89005,A,5,2026-08-07,Open,Robinson’s Snack Bar LLC
+PR0038519,Sanchez’s Pho,Restaurant,,6836 Paradise Rd,Las Vegas,NV,89101,A,7,2026-03-19,Open,Sanchez’s Pho LLC
+PR0064219,Sandstone Bistro,Restaurant,,3208 N Rancho Dr,Las Vegas,NV,89101,A,5,2026-08-21,Open,Sandstone Bistro LLC
+PR0064358,Scott’s Espresso,Coffee Shop,,3642 N Rancho Dr,Desert Springs,NV,89141,B,20,2026-02-22,Open,Scott’s Espresso LLC
+PR0067143,Scott’s Pub,Bar / Tavern,,2254 W Charleston Blvd,Desert Springs,NV,89141,A,4,2026-04-10,Open,Scott’s Pub LLC
+PR0027560,Sierra Buffet,Buffet,,1465 W Cactus Ave,Las Vegas,NV,89109,C,36,2026-08-21,Closed,Sierra Buffet LLC
+PR0032482,Sierra Catering,Caterer,,681 E Desert Inn Rd Ste 221,Desert Springs,NV,89139,A,1,2026-01-20,Open,Sierra Catering LLC
+PR0036988,Silverline Kitchen,Restaurant,,2505 S Rainbow Blvd,Las Vegas,NV,89109,A,6,2026-03-08,Open,Silverline Kitchen LLC
+PR0046668,Silverline Panaderia,Bakery,,8697 Paradise Rd,Las Vegas,NV,89123,C,24,2026-07-09,Open,Silverline Panaderia LLC
+PR0060685,Smith’s Saloon,Bar / Tavern,,7569 S Durango Dr,Henderson,NV,89052,A,4,2026-06-12,Open,Smith’s Saloon LLC
+PR0027090,Southridge BBQ,Restaurant,,2767 S Jones Blvd Ste 266,Las Vegas,NV,89146,A,5,2026-03-12,Open,Southridge BBQ LLC
+PR0062376,Southridge Espresso,Coffee Shop,,8566 Green Valley Pkwy,Henderson,NV,89014,A,2,2026-05-28,Open,Southridge Espresso LLC
+PR0067084,Southridge Food Truck,Food Truck,,1815 W Warm Springs Rd,Desert Springs,NV,89148,A,0,2026-01-19,Open,Southridge Food Truck LLC
+PR0042264,Southridge Snack Bar,Snack Bar,,5516 S Valley View Blvd Ste 138,Las Vegas,NV,89146,A,9,2026-05-08,Open,Southridge Snack Bar LLC
+PR0029508,Southridge Taqueria,Restaurant,,8279 E Sunset Rd Ste 100,North Las Vegas,NV,89030,A,10,2026-08-17,Open,Southridge Taqueria LLC
+PR0047633,Southridge Tavern,Bar / Tavern,,3716 W Cactus Ave Ste 203,Henderson,NV,89074,B,17,2026-08-18,Open,Southridge Tavern LLC
+PR0035010,Spring Mountain Food Truck,Food Truck,,5462 Green Valley Pkwy,Las Vegas,NV,89123,A,4,2026-07-27,Open,Spring Mountain Food Truck LLC
+PR0025812,Spring Mountain Grill,Restaurant,,3837 S Durango Dr,Desert Springs,NV,89148,A,5,2026-09-25,Open,Spring Mountain Grill LLC
+PR0068865,Starlight Catering,Caterer,,9408 S Rainbow Blvd Ste 297,Desert Springs,NV,89141,A,5,2026-08-25,Open,Starlight Catering LLC
+PR0034294,Starlight Diner,Restaurant,,811 W Lake Mead Blvd,Henderson,NV,89012,A,8,2026-07-10,Open,Starlight Diner LLC
+PR0045162,Starlight Donuts,Bakery,,9558 Paradise Rd Ste 192,Boulder City,NV,89005,C,28,2026-04-13,Open,Starlight Donuts LLC
+PR0036857,Summit Food Truck,Food Truck,,2913 E Desert Inn Rd,Las Vegas,NV,89119,A,2,2026-02-11,Open,Summit Food Truck LLC
+PR0051552,Summit Panaderia,Bakery,,2873 W Sahara Ave Ste 230,Henderson,NV,89052,A,3,2026-04-18,Open,Summit Panaderia LLC
+PR0052960,Summit Ramen,Restaurant,,9007 S Durango Dr Ste 108,Desert Springs,NV,89139,A,3,2026-01-16,Open,Summit Ramen LLC
+PR0049580,Sunset Food Truck,Food Truck,,4222 S Valley View Blvd Ste 215,Las Vegas,NV,89119,A,0,2026-09-20,Open,Sunset Food Truck LLC
+PR0025172,Sunset Panaderia,Bakery,,7893 Green Valley Pkwy,Boulder City,NV,89005,A,10,2026-06-14,Open,Sunset Panaderia LLC
+PR0025381,Sunset Pho,Restaurant,,1711 W Cactus Ave,Las Vegas,NV,89169,A,4,2026-04-28,Open,Sunset Pho LLC
+PR0016337,Tailspin – Banquet Kitchen,Banquet Kitchen,Tailspin Resort,3950 S Las Vegas Blvd,Las Vegas,NV,89119,B,19,2026-09-25,Open,Tailspin Resort LLC
+PR0016734,Tailspin – Employee Dining Room,Restaurant,Tailspin Resort,3950 S Las Vegas Blvd,Las Vegas,NV,89119,A,1,2026-10-17,Open,Tailspin Resort LLC
+PR0016755,Tailspin – Pastry Kitchen,Restaurant,Tailspin Resort,3950 S Las Vegas Blvd,Las Vegas,NV,89119,A,6,2026-03-19,Open,Tailspin Resort LLC
+PR0017125,Tailspin – Pool Grill,Restaurant,Tailspin Resort,3950 S Las Vegas Blvd,Las Vegas,NV,89119,A,8,2026-07-27,Open,Tailspin Resort LLC
+PR0016634,Tailspin – Sushi Bar,Restaurant,Tailspin Resort,3950 S Las Vegas Blvd,Las Vegas,NV,89119,A,7,2026-02-16,Open,Tailspin Resort LLC
+PR0016695,Tailspin – Taqueria,Restaurant,Tailspin Resort,3950 S Las Vegas Blvd,Las Vegas,NV,89119,A,5,2026-02-12,Open,Tailspin Resort LLC
+PR0041302,Tailspin Snack Bar,Snack Bar,,9431 S Durango Dr,Henderson,NV,89014,A,5,2026-01-02,Open,Tailspin Snack Bar LLC
+PR0059573,Thomas’s Panaderia,Bakery,,8128 S Maryland Pkwy,Las Vegas,NV,89101,A,0,2026-03-01,Open,Thomas’s Panaderia LLC
+PR0054445,Thompson’s Bistro,Restaurant,,186 E Flamingo Rd,Las Vegas,NV,89119,A,10,2026-07-19,Open,Thompson’s Bistro LLC
+PR0048100,Thompson’s Buffet,Buffet,,3979 Horizon Ridge Pkwy Ste 273,North Las Vegas,NV,89032,A,5,2026-05-26,Open,Thompson’s Buffet LLC
+PR0034960,Trey Kitchen,Restaurant,,606 S Decatur Blvd,Pahrump,NV,89048,A,10,2026-09-23,Open,Trey Kitchen LLC
+PR0039814,Tumbleweed Catering,Caterer,,8395 Green Valley Pkwy Ste 268,Las Vegas,NV,89103,B,18,2026-07-23,Open,Tumbleweed Catering LLC
+PR0036214,Tumbleweed Kitchen,Restaurant,,8016 E Sunset Rd,Las Vegas,NV,89103,A,7,2026-07-10,Open,Tumbleweed Kitchen LLC
+PR0058279,Tumbleweed Panaderia,Bakery,,1407 E Silverado Ranch Blvd Ste 228,Henderson,NV,89014,A,5,2026-02-27,Open,Tumbleweed Panaderia LLC
+PR0046131,Tumbleweed Roasters,Coffee Shop,,3281 Green Valley Pkwy,Las Vegas,NV,89119,A,2,2026-02-27,Open,Tumbleweed Roasters LLC
+PR0027058,Valley BBQ,Restaurant,,2085 W Lake Mead Blvd,Las Vegas,NV,89119,A,2,2026-05-01,Open,Valley BBQ LLC
+PR0030085,Valley Catering,Caterer,,3541 S Eastern Ave,Las Vegas,NV,89123,A,8,2026-08-18,Open,Valley Catering LLC
+PR0035366,Valley Espresso,Coffee Shop,,9848 E Desert Inn Rd,Las Vegas,NV,89169,A,9,2026-07-06,Open,Valley Espresso LLC
+PR0024667,Valley Grill,Restaurant,,4225 E Flamingo Rd Ste 201,Las Vegas,NV,89101,A,9,2026-01-01,Open,Valley Grill LLC
+PR0047493,Valley Panaderia,Bakery,,1406 Green Valley Pkwy Ste 240,Las Vegas,NV,89109,B,19,2026-08-02,Open,Valley Panaderia LLC
+PR0039954,Valley Pho,Restaurant,,375 E Desert Inn Rd Ste 226,Las Vegas,NV,89104,A,6,2026-02-09,Open,Valley Pho LLC
+PR0062031,VanArsdel Buffet,Buffet,,7441 E Sunset Rd,Las Vegas,NV,89146,A,10,2026-05-09,Open,VanArsdel Buffet LLC
+PR0063936,VanArsdel Kitchen,Restaurant,,2378 Horizon Ridge Pkwy Ste 195,Las Vegas,NV,89109,C,37,2026-02-27,Closed,VanArsdel Kitchen LLC
+PR0038995,VanArsdel Snack Bar,Snack Bar,,8660 W Cactus Ave Ste 174,Las Vegas,NV,89109,B,11,2026-02-13,Open,VanArsdel Snack Bar LLC
+PR0035638,Walker’s Diner,Restaurant,,834 N Rancho Dr,Pahrump,NV,89060,A,4,2026-03-16,Open,Walker’s Diner LLC
+PR0066761,Walker’s Food Truck,Food Truck,,4761 E Desert Inn Rd,Henderson,NV,89014,A,8,2026-02-18,Open,Walker’s Food Truck LLC
+PR0033562,Walker’s Tavern,Bar / Tavern,,455 W Charleston Blvd,Henderson,NV,89074,B,19,2026-10-17,Open,Walker’s Tavern LLC
+PR0045415,White’s Panaderia,Bakery,,3160 Industrial Rd Ste 249,Las Vegas,NV,89119,A,8,2026-07-01,Open,White’s Panaderia LLC
+PR0038642,Wilson’s BBQ,Restaurant,,5911 E Desert Inn Rd,Pahrump,NV,89048,B,15,2026-03-01,Open,Wilson’s BBQ LLC
+PR0044351,Woodgrove Bistro,Restaurant,,6613 S Maryland Pkwy,Las Vegas,NV,89119,A,10,2026-09-21,Open,Woodgrove Bistro LLC
+PR0026905,Woodgrove Catering,Caterer,,6753 Horizon Ridge Pkwy Ste 117,Desert Springs,NV,89141,A,7,2026-06-11,Open,Woodgrove Catering LLC
+PR0055251,Woodgrove Donuts,Bakery,,8809 Industrial Rd Ste 162,Las Vegas,NV,89104,A,0,2026-04-20,Open,Woodgrove Donuts LLC
+PR0040762,Woodgrove Kitchen,Restaurant,,8437 S Maryland Pkwy,Las Vegas,NV,89104,A,0,2026-03-19,Open,Woodgrove Kitchen LLC
+PR0051195,Wright’s Coffee,Coffee Shop,,2887 E Desert Inn Rd,Henderson,NV,89015,A,2,2026-05-12,Open,Wright’s Coffee LLC
+PR0028079,Young’s BBQ,Restaurant,,5975 S Decatur Blvd,Henderson,NV,89011,B,20,2026-03-23,Open,Young’s BBQ LLC
+PR0032731,Young’s Snack Bar,Snack Bar,,4854 W Warm Springs Rd Ste 257,Las Vegas,NV,89119,A,5,2026-02-07,Open,Young’s Snack Bar LLC
+PR0040485,Young’s Taqueria,Restaurant,,2431 S Eastern Ave Ste 149,Las Vegas,NV,89102,A,9,2026-01-17,Open,Young’s Taqueria LLC

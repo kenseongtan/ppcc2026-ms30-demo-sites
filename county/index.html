@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Business License Search – Mesa County</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="search">
+<header id="hdr"></header>
+<section class="hero"><div class="in">
+  <div class="crumbs">Home › Business License › License Search</div>
+  <h1>Business License Search</h1>
+  <p class="lead">Look up any business licensed in unincorporated Mesa County. Search by business name, owner, license number, or parcel number. Results are limited to 1,000 records.</p>
+  <div class="tabs" role="group" aria-label="Search by">
+    <button type="button" data-by="name" aria-pressed="true">Business name</button>
+    <button type="button" data-by="owner" aria-pressed="false">Owner</button>
+    <button type="button" data-by="license" aria-pressed="false">License number</button>
+    <button type="button" data-by="parcel" aria-pressed="false">Parcel number</button>
+  </div>
+  <form class="search" action="index.html" method="get" role="search">
+    <input type="hidden" name="by" id="by" value="name">
+    <div class="box"><input type="search" name="q" id="q" placeholder="Search by business name or DBA" aria-label="Search by business name or DBA"><button type="submit">Search</button></div>
+    <label class="small" for="status">License status</label>
+    <select name="status" id="status">
+      <option value="all">All statuses</option>
+      <option value="active">Active</option>
+      <option value="activepending">Active and Pending</option>
+      <option value="pending">Pending</option>
+      <option value="inactive">Inactive</option>
+    </select>
+  </form>
+</div></section>
+<main id="results" aria-live="polite"></main>
+<footer id="ftr"></footer>
+<script src="../shared/common.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

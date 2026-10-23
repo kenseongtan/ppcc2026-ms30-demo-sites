@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>License Search – State Contractors Board</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-page="search">
+<header id="hdr"></header>
+<nav id="nav" aria-label="Main"></nav>
+<main id="main">
+<div class="panel">
+  <h1>License Search</h1>
+  <p class="help">Select how to search from the <b>Search by</b> menu. Choices are license number, company name, or principal or qualified individual name. Entering as much detail for the search criteria as possible will return the best result.</p>
+  <p class="help">You are not required to enter the entire name. For example, if you are not sure whether the company name is "Smith Construction" or "Smith Builders", you should enter "Smith" as your search criteria. You may also perform wildcard searches if you know part of a name. For example, if you know part of a name is "Smith", you could enter "*Smith*". A minimum of 2 characters must be entered. Press <b>Clear</b> to start over.</p>
+  <form id="frm" class="form" autocomplete="off">
+    <label for="searchBy">Search by:</label>
+    <select id="searchBy" name="searchBy">
+      <option value="license">License Number</option>
+      <option value="company" selected>Company Name</option>
+      <option value="principal">Principal or Qualified Individual Name</option>
+    </select>
+    <label for="criteria" id="critLabel">Company Name:</label>
+    <input type="text" id="criteria" name="criteria" maxlength="80">
+    <div class="btns"><button type="submit" class="btn" id="btnSearch">Search</button><button type="button" class="btn alt" id="btnClear">Clear</button></div>
+  </form>
+  <div id="err" class="err" role="alert"></div>
+</div>
+</main>
+<footer id="ftr"></footer>
+<script src="../shared/common.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
